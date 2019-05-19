@@ -1,0 +1,15 @@
+Main View:
+Go to Edit Button
+Go to Learn Button
+
+Edit view:
+Edit Button
+OK Button
+Turn SideButton
+Back Button
+
+Learn view:
+Forward Button
+Backward Button
+Back Button
+
